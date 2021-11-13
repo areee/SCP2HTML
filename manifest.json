@@ -1,0 +1,24 @@
+{
+    "name": "SCP2HTML",
+    "description": "Save current page to the HTML file",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": [
+        "activeTab"
+    ],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "/images/scp2html_16.png",
+            "32": "/images/scp2html_32.png",
+            "48": "/images/scp2html_48.png",
+            "128": "/images/scp2html_128.png"
+        }
+    },
+    "icons": {
+        "16": "/images/scp2html_16.png",
+        "32": "/images/scp2html_32.png",
+        "48": "/images/scp2html_48.png",
+        "128": "/images/scp2html_128.png"
+    }
+}
